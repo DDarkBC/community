@@ -22,7 +22,7 @@ Does this speak to you? If **YES**, feel free to [Join our Discord Server](https
 ### <a href="https://www.youtube.com/@numericaideas/channels?sub_confirmation=1"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="NumericaIdeas YouTube Channel" alt="NumericaIdeas YouTube Channel" width="30"/> </a>   Latest YouTube Videos      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Watch the full video at https://youtu.be/IfFZK8nc-0c | #frontend #css #flexbox #html](https://www.youtube.com/watch?v=ocGuOcyi0eg)
+- [Responsive Grid Layout - HTML &amp; CSS &lpar;FlexBox&rpar;](https://www.youtube.com/watch?v=ocGuOcyi0eg)
 - [Responsive Grid Layout using FlexBox, HTML &amp; CSS](https://www.youtube.com/watch?v=IfFZK8nc-0c)
 - [How I Became a Software Engineer with No University Degree or Experience](https://www.youtube.com/watch?v=UVF_31PmeEQ)
 - [Entretien d&#39;embauche Développeur Frontend: HTML + CSS](https://www.youtube.com/watch?v=ILGVVFNeRcY)
