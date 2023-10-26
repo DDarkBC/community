@@ -26,7 +26,7 @@ Does this speak to you? If **YES**, feel free to [Join our Discord Server](https
 - [Responsive Grid Layout - HTML &amp; CSS &lpar;FlexBox&rpar;](https://www.youtube.com/watch?v=ocGuOcyi0eg)
 - [Responsive Grid Layout using FlexBox, HTML &amp; CSS](https://www.youtube.com/watch?v=IfFZK8nc-0c)
 - [How I Became a Software Engineer with No University Degree or Experience](https://www.youtube.com/watch?v=UVF_31PmeEQ)
-- [Entretien d&#39;embauche Développeur Frontend: HTML + CSS](https://www.youtube.com/watch?v=ILGVVFNeRcY)
+- [Entretien Technique #01: Développeur Frontend HTML + CSS](https://www.youtube.com/watch?v=ILGVVFNeRcY)
 - [What is NumericaIdeas?](https://www.youtube.com/watch?v=6bdCyAZCUTg)
 - [NumericaIdeas Community Updates #1](https://www.youtube.com/watch?v=va8SgEa0ssw)
 - [Built-in .env Files Support Starting from Node.js v20.6.0](https://www.youtube.com/watch?v=gnVtDbl2gpg)
