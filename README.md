@@ -22,6 +22,7 @@ Does this speak to you? If **YES**, feel free to [Join our Discord Server](https
 ### <a href="https://www.youtube.com/@numericaideas/channels?sub_confirmation=1"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="NumericaIdeas YouTube Channel" alt="NumericaIdeas YouTube Channel" width="30"/> </a>   Latest YouTube Videos      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [The revamped Website: Enhanced Experience and Tighter Security](https://www.youtube.com/watch?v=L4LAw3MYsxA)
 - [Entretien Technique #02 : Développeur Spring Boot Junior](https://www.youtube.com/watch?v=V0NHhdOOvY0)
 - [Unlocking Career Opportunities, some key elements to successfully start your tech career!](https://www.youtube.com/watch?v=bcY7Qth-s9w)
 - [Responsive Grid Layout - HTML &amp; CSS &lpar;FlexBox&rpar;](https://www.youtube.com/watch?v=ocGuOcyi0eg)
@@ -31,7 +32,6 @@ Does this speak to you? If **YES**, feel free to [Join our Discord Server](https
 - [What is NumericaIdeas?](https://www.youtube.com/watch?v=6bdCyAZCUTg)
 - [NumericaIdeas Community Updates #1](https://www.youtube.com/watch?v=va8SgEa0ssw)
 - [Built-in .env Files Support Starting from Node.js v20.6.0](https://www.youtube.com/watch?v=gnVtDbl2gpg)
-- [Lift And Shift Cloud Migration of Spring Boot to AWS ElasticBeanstalk | Part 3: GitHub Actions CI/CD](https://www.youtube.com/watch?v=TI84hpeiTZE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 </td><td valign="top" width="50%">
