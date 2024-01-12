@@ -22,6 +22,7 @@ Does this speak to you? If **YES**, feel free to [Join our Discord Server](https
 ### <a href="https://www.youtube.com/@numericaideas/channels?sub_confirmation=1"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="NumericaIdeas YouTube Channel" alt="NumericaIdeas YouTube Channel" width="30"/> </a>   Latest YouTube Videos      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Migration: Speed VS Design and Time Saving](https://www.youtube.com/watch?v=zV_ocd33-ZQ)
 - [Ni Platform Migration from Ghost to WordPress](https://www.youtube.com/watch?v=bqD0Pp_qDbk)
 - [The revamped Website: Enhanced Experience and Tighter Security](https://www.youtube.com/watch?v=L4LAw3MYsxA)
 - [Entretien Technique #02 : Développeur Spring Boot Junior](https://www.youtube.com/watch?v=V0NHhdOOvY0)
@@ -31,7 +32,6 @@ Does this speak to you? If **YES**, feel free to [Join our Discord Server](https
 - [How I Became a Software Engineer with No University Degree or Experience](https://www.youtube.com/watch?v=UVF_31PmeEQ)
 - [Entretien Technique #01: Développeur Frontend HTML + CSS](https://www.youtube.com/watch?v=ILGVVFNeRcY)
 - [What is NumericaIdeas?](https://www.youtube.com/watch?v=6bdCyAZCUTg)
-- [NumericaIdeas Community Updates #1](https://www.youtube.com/watch?v=va8SgEa0ssw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 </td><td valign="top" width="50%">
