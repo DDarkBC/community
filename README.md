@@ -27,10 +27,10 @@ Does this speak to you? If **YES**, feel free to [Join our Discord Server](https
 - [An Introduction to Strapi Headless CMS](https://www.youtube.com/watch?v=84bRnaJ9QWQ)
 - [Tech Career: Should You Specialize Sooner or Later?](https://www.youtube.com/watch?v=tADeuqlCylI)
 - [The 5-Step Tech Jobs Application Framework to Apply in 2024](https://www.youtube.com/watch?v=jU_8xL9ywfA)
-- [Migration: SEO and 301 Redirects](https://www.youtube.com/watch?v=YonptTEEqWk)
-- [Migration: Speed VS Design and Time Saving](https://www.youtube.com/watch?v=zV_ocd33-ZQ)
+- [Migration: SEO and 301 Redirects](https://www.youtube.com/shorts/YonptTEEqWk)
+- [Migration: Speed VS Design and Time Saving](https://www.youtube.com/shorts/zV_ocd33-ZQ)
 - [Ni Platform Migration from Ghost to WordPress](https://www.youtube.com/watch?v=bqD0Pp_qDbk)
-- [The revamped Website: Enhanced Experience and Tighter Security](https://www.youtube.com/watch?v=L4LAw3MYsxA)
+- [The revamped Website: Enhanced Experience and Tighter Security](https://www.youtube.com/shorts/L4LAw3MYsxA)
 - [Entretien Technique #02 : Développeur Spring Boot Junior](https://www.youtube.com/watch?v=V0NHhdOOvY0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
