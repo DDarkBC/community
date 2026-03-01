@@ -31,7 +31,7 @@ Does this speak to you? If **YES**, feel free to [Join our Discord Server](https
 - [Migration: Speed VS Design and Time Saving](https://www.youtube.com/shorts/zV_ocd33-ZQ)
 - [Ni Platform Migration from Ghost to WordPress](https://www.youtube.com/watch?v=bqD0Pp_qDbk)
 - [The revamped Website: Enhanced Experience and Tighter Security](https://www.youtube.com/shorts/L4LAw3MYsxA)
-- [Entretien Technique #02 : Développeur Spring Boot Junior](https://www.youtube.com/watch?v=V0NHhdOOvY0)
+- [Unlocking Career Opportunities, some key elements to successfully start your tech career!](https://www.youtube.com/shorts/bcY7Qth-s9w)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 </td><td valign="top" width="50%">
