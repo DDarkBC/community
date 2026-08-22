@@ -22,16 +22,10 @@ Does this speak to you? If **YES**, feel free to [Join our Discord Server](https
 ### <a href="https://www.youtube.com/@numericaideas/channels?sub_confirmation=1"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="NumericaIdeas YouTube Channel" alt="NumericaIdeas YouTube Channel" width="30"/> </a>   Latest YouTube Videos      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Ngrok Tunneling: Open your Localhost to The World](https://www.youtube.com/watch?v=ZuRjFGtIrJk)
-- [Types of Cloud Computing](https://www.youtube.com/watch?v=jMs1UjOASsA)
-- [An Introduction to Strapi Headless CMS](https://www.youtube.com/watch?v=84bRnaJ9QWQ)
-- [Tech Career: Should You Specialize Sooner or Later?](https://www.youtube.com/watch?v=tADeuqlCylI)
-- [The 5-Step Tech Jobs Application Framework to Apply in 2024](https://www.youtube.com/watch?v=jU_8xL9ywfA)
-- [Migration: SEO and 301 Redirects](https://www.youtube.com/shorts/YonptTEEqWk)
-- [Migration: Speed VS Design and Time Saving](https://www.youtube.com/shorts/zV_ocd33-ZQ)
-- [Ni Platform Migration from Ghost to WordPress](https://www.youtube.com/watch?v=bqD0Pp_qDbk)
-- [The revamped Website: Enhanced Experience and Tighter Security](https://www.youtube.com/shorts/L4LAw3MYsxA)
 - [Entretien Technique #02 : Développeur Spring Boot Junior](https://www.youtube.com/watch?v=V0NHhdOOvY0)
+- [Entretien Technique #01: Développeur Frontend HTML + CSS](https://www.youtube.com/watch?v=ILGVVFNeRcY)
+- [Meetup 02: Devenez un freelance de 1ère classe &lpar;top 3%&rpar; avec Toptal - Salomon Nghukam](https://www.youtube.com/watch?v=AmhMAQTxcGg)
+- [Meetup 01: Multi-modules à la Rescousse des Microservices - Valdèse Kamdem](https://www.youtube.com/watch?v=e_LJvcikUCk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 </td><td valign="top" width="50%">
